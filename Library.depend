@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1567344481 source:e:\library\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	<windows.h>
+	<dir.h>
+
+1566476594 source:e:\library\resorces.rc
+
